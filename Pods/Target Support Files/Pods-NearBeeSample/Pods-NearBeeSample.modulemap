@@ -1,0 +1,6 @@
+framework module Pods_NearBeeSample {
+  umbrella header "Pods-NearBeeSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
