@@ -4,7 +4,7 @@ platform :ios, '10.0'
 target 'NearBeeSample' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
-  pod 'NearBee', '3.2.12'
+  pod 'NearBee', '3.2.13'
   pod 'Imaginary'
   pod 'EddystoneScanner'
   pod 'Socket.IO-Client-Swift', '15.2.0'
