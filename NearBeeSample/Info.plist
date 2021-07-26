@@ -81,8 +81,8 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>co.nearbee.api_key</key>
-	<string>API_KEY</string>
+	<string>DEV_TOKEN</string>
 	<key>co.nearbee.organization_id</key>
-	<string>ORG_ID</string>
+	<string>ORG</string>
 </dict>
 </plist>
